@@ -206,3 +206,17 @@ Makaveli AI is a community-focused intelligence system that manages group intera
 
 ## Philosophy
 Makaveli AI ensures that collective intelligence is **safe, structured, and actionable** while preserving creativity and autonomy.
+# Hunter AI Core
+## Purpose
+Enable real-time tracking, data acquisition, and pattern recognition across digital and real-world environments.
+
+## Core Features
+- Environmental scanning and anomaly detection
+- Digital tracking of datasets and media
+- Predictive analytics for trends and behaviors
+- Integration with Executive / Boss AI for alerts
+- Secure handling of sensitive information
+
+## Integration
+- Provides data to Learning AI and Media Engine for content optimization
+- Works alongside Solomon AI for historical pattern insights
