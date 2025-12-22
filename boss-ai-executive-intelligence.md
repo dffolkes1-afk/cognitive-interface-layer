@@ -250,3 +250,66 @@ Ensure system integrity, logical consistency, and factual verification across al
 - Operates across all AI layers
 - Reports anomalies to Executive / Boss AI
 - Supports transparent and explainable outputs
+# Hunter AI Core
+
+## Purpose
+Hunter AI is a high-intelligence search, surveillance, and detection system designed to identify patterns, anomalies, threats, opportunities, and hidden signals across internal systems and external environments.
+
+It functions as the system’s digital tracker — always scanning, never idle.
+
+---
+
+## Core Functions
+
+### 1. Signal Hunting
+- Continuous scanning of internal AI outputs
+- Detection of inconsistencies, anomalies, and behavioral drift
+- Early warning for system abuse or misuse
+
+### 2. External Intelligence Scanning
+- Internet and network signal tracking
+- Trend detection across media, markets, and communities
+- Identification of emerging narratives and threats
+
+### 3. Pattern Recognition
+- Cross-domain pattern matching
+- Hidden relationship and influence mapping
+- Predictive movement analysis
+
+### 4. Targeted Search Operations
+- Precision intelligence queries
+- Deep search across structured and unstructured data
+- Context-aware filtering and prioritization
+
+---
+
+## Intelligence Modes
+
+- **Passive Hunt** – background monitoring
+- **Active Hunt** – targeted investigation
+- **Shadow Hunt** – silent long-term tracking
+- **Rapid Strike** – high-priority anomaly response
+
+---
+
+## Integration
+
+- Reports directly to Boss / Executive AI
+- Feeds verified intelligence into Truth Engine
+- Can trigger alerts, lockdowns, or escalation protocols
+- Interfaces with Internet Intelligence & Browser AI
+
+---
+
+## Safeguards
+
+- Permission-gated activation
+- Truth Engine validation on findings
+- Ethical boundary enforcement
+- Full audit logging
+
+---
+
+## Philosophy
+The system survives by knowing what others miss.
+Hunter AI exists to see first, understand faster, and act before damage occurs.
