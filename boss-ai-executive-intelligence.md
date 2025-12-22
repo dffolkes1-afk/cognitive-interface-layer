@@ -220,3 +220,18 @@ Enable real-time tracking, data acquisition, and pattern recognition across digi
 ## Integration
 - Provides data to Learning AI and Media Engine for content optimization
 - Works alongside Solomon AI for historical pattern insights
+# Machiavellian AI Core
+## Purpose
+Create an AI framework for group-based intelligence, collaboration, and secure community interactions.
+
+## Core Features
+- Multi-user collaboration management
+- Group-level decision-making and insights
+- Secure content creation and sharing
+- Voice, text, and media synchronization within groups
+- Privacy-first architecture and controlled permissions
+
+## Integration
+- Communicates with Hunter AI for environment data
+- Supports Media Engine for group media production
+- Integrates with Executive / Boss AI for oversight
