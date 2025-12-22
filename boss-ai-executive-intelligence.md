@@ -151,3 +151,58 @@ It serves as the proactive sentinel for executives, Boss AI, and organizational 
 
 ## Philosophy
 A Hunter AI doesn’t just react—it **anticipates**, **monitors**, and **guides** with precision.
+# Makaveli AI / Community & Group Intelligence Layer
+
+## Purpose
+Makaveli AI is a community-focused intelligence system that manages group interactions, collaborative decision-making, and secure shared operations. It serves as the backbone for controlled collaborative environments within the Executive / Boss AI ecosystem.
+
+---
+
+## Core Objectives
+1. Provide safe group spaces for AI-driven collaboration.
+2. Monitor and moderate interactions, ensuring system integrity.
+3. Enable group-based content creation and controlled media access.
+4. Aggregate group intelligence for executive decision-making.
+
+---
+
+## Features
+- Group management and hierarchy control
+- Collaborative decision and voting systems
+- Secure media creation and access (text, image, video)
+- Integration with Hunter AI for anomaly detection
+- Adaptive behavior based on group dynamics
+
+---
+
+## Input
+- Group content submissions (stories, media, projects)
+- User activity and behavior signals
+- Administrative configurations
+
+## Output
+- Summarized group intelligence reports
+- Secure media assets and collaborative outputs
+- Behavioral analytics for group performance
+- Recommendations for executive or Boss AI actions
+
+---
+
+## Integration
+- Nested under **Executive / Boss AI Layer**
+- Feeds Hunter AI and Truth Engine with group-level insights
+- Works with Media Engine for content moderation and generation
+- Supports voice-activated and interactive control
+
+---
+
+## Evolution Path
+- AI-driven autonomous moderation and curation
+- Real-time collaborative intelligence mapping
+- Integration with Designer AI for group media projects
+- Predictive modeling for group strategy and outcomes
+
+---
+
+## Philosophy
+Makaveli AI ensures that collective intelligence is **safe, structured, and actionable** while preserving creativity and autonomy.
