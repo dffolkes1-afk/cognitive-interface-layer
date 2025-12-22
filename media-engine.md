@@ -116,3 +116,72 @@ Media Engine (video/images) MD
 │   ├── AI Voice & Tone Recognition Layer
 │   ├── AI Music & Sound Design Layer
 │   └── Storyline & Narrative AI Layer
+---
+
+## Gothic Movie AI / Narrative Intelligence Layer
+
+### Core Objective
+Enable AI-driven cinematic storytelling with deep emotional weight, cultural authenticity, and gothic tonal control across global story lineages.
+
+This layer transforms raw story concepts into fully structured, emotionally intense cinematic narratives.
+
+---
+
+### Capabilities
+
+#### 1. Storyline & Narrative AI
+- Full movie plot generation (acts, scenes, pacing)
+- Gothic tone enforcement (dark, raw, emotional, brutal realism)
+- Character arc creation and psychological depth modeling
+- Cultural lineage adaptation (Japanese, African, Caribbean, Indian, Chinese, Middle Eastern)
+- Dialogue generation with emotional subtext
+
+#### 2. AI Voice & Tone Recognition
+- Detects emotional intensity and scene mood
+- Supports Caribbean, Black American, African, Asian, and global vocal tones
+- Aligns dialogue delivery with emotional weight
+- Syncs voice tone with music and scene pacing
+
+#### 3. AI Music & Sound Design Layer
+- Generates original cinematic scores per scene
+- Adaptive background harmony and tension build-up
+- Cultural instrument integration (taiko, drums, strings, chants)
+- Ambient sound design (wind, breath, silence, violence, chaos)
+- Emotional crescendo and decay control
+
+---
+
+### Input
+- Story concepts or folklore
+- Cultural or lineage selection
+- Emotional intensity level
+- Visual and sonic mood guidance
+
+### Output
+- Fully structured movie narrative
+- Scene-by-scene audio + music guidance
+- Voice-ready dialogue scripts
+- Media Engine–ready cinematic blueprint
+
+---
+
+### System Integration
+- Driven by Media Engine AI
+- Uses Learning AI for cultural accuracy
+- Reports performance and quality metrics to Boss AI
+- Outputs directly into Video, Audio, and Image generation pipelines
+# Media Engine — Narrative & Story AI Layer
+
+## Core Objective
+Enable cinematic-quality storytelling through AI-generated narratives, emotional pacing, and scene structuring.
+
+## Features
+- Gothic, cinematic, historical, and modern storytelling modes
+- Emotional tone detection and amplification
+- Character arc and dialogue generation
+- Scene pacing and cinematic rhythm control
+
+## Integration
+- Works with Video, Audio, and Music AI layers
+- Supports movie scripts, learning stories, and simulations
+- Feeds output to Media Engine rendering pipeline
