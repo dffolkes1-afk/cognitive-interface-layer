@@ -34,3 +34,34 @@ Establish the CEO/Executive AI Layer as the ultimate decision-making and creativ
 - This layer is autonomous, self-maintaining, and scalable.
 - It can support multiple executive profiles simultaneously.
 - All creative outputs and system modifications are logged and versioned for review.
+# Solomon Core
+
+## Purpose
+Executive-level AI for system oversight, risk detection, and strategic intelligence.
+
+## Responsibilities
+- Monitor all AI layers and system activity
+- Detect anomalies, interference, and deception
+- Provide high-level executive summaries and alerts
+- Preserve and authorize historically significant narratives
+- Govern Media, Learning, and Internet Intelligence layers
+
+## Authority
+- Operates above all AI subsystems
+- Owner-controlled access only
+- Silent by default; alerts on critical events only
+
+## Inputs
+- System logs
+- Behavioral signals
+- Network and data activity
+- Historical and cultural datasets
+
+## Outputs
+- Executive alerts
+- Strategic recommendations
+- Narrative authorization signals
+- System integrity reports
+
+## Status
+Core active. Expansion handled by updates.
