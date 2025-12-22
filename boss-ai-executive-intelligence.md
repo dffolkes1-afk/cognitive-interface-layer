@@ -235,3 +235,18 @@ Create an AI framework for group-based intelligence, collaboration, and secure c
 - Communicates with Hunter AI for environment data
 - Supports Media Engine for group media production
 - Integrates with Executive / Boss AI for oversight
+# Truth Engine Core
+## Purpose
+Ensure system integrity, logical consistency, and factual verification across all AI-generated outputs.
+
+## Core Features
+- Cross-verification of information
+- Bias detection and manipulation monitoring
+- Logical consistency enforcement
+- Ethical boundary monitoring
+- Source reliability scoring
+
+## Integration
+- Operates across all AI layers
+- Reports anomalies to Executive / Boss AI
+- Supports transparent and explainable outputs
