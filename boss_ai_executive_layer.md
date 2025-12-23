@@ -583,3 +583,18 @@ Provide strategic analysis, negotiation planning, and influence modeling based o
 - Connected to Executive AI for decision-making
 - Works alongside Solomon AI for strategic assessments
 - Interfaces with Internet & Browser Intelligence for external monitoring
+# Community AI
+
+## Purpose
+Enable group intelligence, social collaboration, and safe digital community interactions.
+
+## Core Capabilities
+- Group-level decision-making
+- Knowledge sharing and collaborative learning
+- Moderation and safety management
+- Community sentiment analysis
+
+## Integration
+- Interfaces with Executive/Boss AI for strategic insights
+- Supports Hunter AI in monitoring community interactions
+- Provides feedback to Media Engine for community-driven content
