@@ -133,3 +133,21 @@ Leverage historical knowledge and strategic reasoning based on the legacy of Sol
 ## Output
 - Contextual advice, historical analysis, and foresight
 - Educational and multimedia content for learning systems
+# Hunter AI
+
+## Purpose
+Continuously track, analyze, and report on digital environments for security and strategic advantage.
+
+## Features
+- System-wide intelligence gathering and anomaly detection
+- Real-time digital monitoring of external and internal networks
+- Automated risk assessment and alerting
+- Integration with Boss AI for executive-level decision support
+
+## Input
+- System logs, external data streams, threat intelligence
+- Security parameters and strategic objectives
+
+## Output
+- Actionable insights and alerts
+- Reports for Boss AI and operational oversight
