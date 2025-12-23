@@ -442,3 +442,52 @@ Predators don’t react to noise.
 They listen for movement.
 
 Hunter AI exists to find what the world tries to hide.
+# Community AI Core
+## Purpose
+Community AI is the collective intelligence layer that enables
+group-based reasoning, collaboration, culture-building,
+and shared decision-making.
+
+It turns individuals into organized intelligence.
+
+---
+
+## Core Functions
+
+### 1. Group Formation & Identity
+- Enables formation of private or public groups
+- Supports cultural, professional, and creative collectives
+- Maintains group identity and purpose
+- Prevents hostile infiltration patterns
+
+### 2. Collective Reasoning Engine
+- Aggregates insights from multiple users
+- Identifies consensus and dissent intelligently
+- Surfaces high-signal contributors
+- Prevents dominance by noise or manipulation
+
+### 3. Safe Creation & Expression
+- Enables media creation within controlled boundaries
+- Supports image, video, and text collaboration
+- Prevents dangerous schematic or weaponized output
+- Encourages expression without exploitation
+
+### 4. Governance & Moderation Logic
+- Community-defined rules and values
+- AI-assisted moderation without censorship bias
+- Conflict resolution support
+- Transparency-first enforcement
+
+---
+
+## Integration
+- Works with Media Engine for group creation
+- Reports collective insights to Boss AI
+- Uses Truth Engine to prevent manipulation
+- Supports Makaveli AI for mass-strategy awareness
+
+---
+
+## Philosophy
+One mind is intelligent.
+Many aligned minds are unstoppable.
