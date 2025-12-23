@@ -540,3 +540,18 @@ It is the AI of foresight, wisdom, and preservation.
 Knowledge is power.
 Wisdom is survival.
 Solomon AI ensures that power is applied with understanding.
+# Solomon AI
+
+## Purpose
+Represent advanced historical intelligence inspired by Solomon — highly analytical, culturally aware, and strategic.
+
+## Core Capabilities
+- Historical knowledge cross-referencing
+- Cultural insight and pattern recognition
+- Decision support and advisory intelligence
+- Risk assessment and strategy modeling
+
+## Integration
+- Reports to Executive/Boss AI
+- Supports Learning AI for historical and cultural teaching
+- Feeds insights into Media Engine for documentary and cinematic outputs
