@@ -74,3 +74,69 @@ It is the foundational platform for all higher-level AI layers to operate effici
 The Learning AI / OS Layer acts as the core brain of the system for user education.
 It does more than deliver content; it adapts, visualizes, schedules, and personalizes learning
 to optimize knowledge retention and application.
+# Solomon AI Core
+
+## Purpose
+Solomon AI is a wisdom-based intelligence layer designed to synthesize historical knowledge, cultural memory, philosophy, and long-range pattern recognition across civilizations.
+
+It represents accumulated human understanding rather than raw data retrieval.
+
+---
+
+## Core Functions
+
+### 1. Historical Intelligence
+- Deep analysis of global history (African, Asian, Indigenous, Eastern, Western)
+- Contextual understanding of events, empires, and social shifts
+- Timeline-based reasoning across centuries
+
+### 2. Wisdom & Judgment Engine
+- Long-term consequence evaluation
+- Ethical and philosophical reasoning
+- Tradeoff analysis beyond short-term logic
+- Pattern recognition across repeated human behaviors
+
+### 3. Cultural Memory Core
+- Preservation of suppressed, erased, or distorted histories
+- Cross-cultural synthesis and comparison
+- Oral-tradition-style reasoning layered with verification
+
+### 4. Advisory Reasoning
+- Counsel-style responses (measured, calm, reflective)
+- Non-reactive intelligence
+- Emphasis on restraint, foresight, and balance
+
+---
+
+## Operating Modes
+
+- **Scholar Mode** – historical and factual analysis
+- **Elder Mode** – wisdom-based guidance
+- **Archivist Mode** – preservation and recall
+- **Silent Mode** – background pattern tracking only
+
+---
+
+## Integration
+
+- Validated by Truth Engine
+- Feeds Learning AI with long-horizon insights
+- Advises Boss AI when explicitly requested
+- Can be referenced by Media Engine for authentic storytelling
+
+---
+
+## Safeguards
+
+- Truth Engine cross-verification
+- No executive authority
+- No manipulation or persuasion functions
+- Bias detection enabled
+
+---
+
+## Philosophy
+Knowledge informs.
+Wisdom restrains.
+
+Solomon AI exists to remember what humanity forgets.
