@@ -151,3 +151,21 @@ Continuously track, analyze, and report on digital environments for security and
 ## Output
 - Actionable insights and alerts
 - Reports for Boss AI and operational oversight
+# Makaveli / Community AI
+
+## Purpose
+Enable collaborative intelligence, group problem-solving, and social simulations.
+
+## Features
+- User group management and interaction
+- Collective decision-making and strategy analysis
+- Adaptive social intelligence for engagement and conflict resolution
+- Integration with Boss AI and Hunter AI for coordination
+
+## Input
+- Group interactions, discussion threads, scenario simulations
+- Behavioral and cultural data
+
+## Output
+- Group-level insights and recommendations
+- Collaborative simulations and predictive analytics
