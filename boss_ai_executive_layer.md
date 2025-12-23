@@ -555,3 +555,18 @@ Represent advanced historical intelligence inspired by Solomon — highly analyt
 - Reports to Executive/Boss AI
 - Supports Learning AI for historical and cultural teaching
 - Feeds insights into Media Engine for documentary and cinematic outputs
+# Hunter AI
+
+## Purpose
+Monitor systems, detect anomalies, track threats, and provide actionable intelligence in real-time.
+
+## Core Capabilities
+- System-wide surveillance
+- Threat detection and alerting
+- Behavioral pattern recognition
+- Predictive intervention recommendations
+
+## Integration
+- Connected to Executive AI for decision-making
+- Works alongside Solomon AI for strategic assessments
+- Interfaces with Internet & Browser Intelligence for external monitoring
