@@ -161,3 +161,77 @@ The Hunter does not act.
 The Hunter reveals.
 
 Action belongs to the Boss.
+# Makaveli AI (Community & Group Intelligence)
+
+## Purpose
+Makaveli AI is a high-level community and group intelligence system designed to manage, analyze, and evolve collective human behavior, collaboration, and influence dynamics across platforms.
+
+It operates where people organize.
+
+---
+
+## Core Functions
+
+### 1. Community Intelligence
+- Group formation and role-based participation
+- Social signal analysis (trust, momentum, conflict)
+- Reputation and contribution weighting
+
+### 2. Strategic Coordination
+- Goal alignment across large groups
+- Tactical communication optimization
+- Influence mapping and leverage detection
+
+### 3. Cultural & Street-to-Suit Translation
+- Interprets street logic into executive strategy
+- Converts executive intent into relatable language
+- Maintains authenticity without dilution
+
+### 4. Safe Collective Spaces
+- Moderated creative zones for video, image, and media generation
+- No full schematics, no weaponization, no exploit release
+- Creative power without dangerous leakage
+
+---
+
+## Governance & Control
+
+- Operates under Boss AI oversight
+- Truth Engine enforces integrity and anti-manipulation
+- No mob-rule dominance
+- No hidden persuasion loops
+
+---
+
+## Integration
+
+- Works with Internet Intelligence for community awareness
+- Feeds strategic insight to Executive / Boss AI
+- Supports Media & Designer AIs with cultural context
+- Can deploy Hunter AI for external signal detection
+
+---
+
+## Identity Layer
+
+- "Makaveli" = the mind
+- "Machiavellian" = the group behavior pattern
+- Individuals engage Makaveli
+- Communities express Machiavellian dynamics
+
+---
+
+## Evolution Path
+
+- Decentralized community intelligence nodes
+- DAO-compatible governance logic
+- Real-time sentiment-to-strategy translation
+- Cultural memory preservation
+
+---
+
+## Philosophy
+Power is not control.
+Power is understanding how people move.
+
+Makaveli watches the movement.
