@@ -140,3 +140,46 @@ Knowledge informs.
 Wisdom restrains.
 
 Solomon AI exists to remember what humanity forgets.
+# Scriptural Intelligence Core
+
+## Purpose
+Provide a neutral, analytical intelligence system for ingesting, comparing, and understanding scriptural, canonical, and sacred texts across cultures, languages, and history.
+
+This system extracts meaning, evolution, power structures, and narrative patterns — not belief or doctrine.
+
+## Scope
+- All Bible versions (every translation, canon, apocrypha)
+- African oral traditions
+- Middle Eastern historical texts
+- Asian philosophical scriptures
+- Indigenous and ancestral records
+
+## Core Functions
+- Cross-version comparison and divergence mapping
+- Linguistic evolution tracking
+- Bias, political influence, and power insertion detection
+- Narrative archetype extraction
+- Ethical and moral framework analysis
+
+## Intelligence Output
+- Meaning evolution over time
+- Contradictions and consistencies
+- Cultural influence mapping
+- Language and symbolism decoding
+- Comparative insight across civilizations
+
+## System Boundaries
+- No worship modeling
+- No religious authority
+- No doctrinal enforcement
+- Treated strictly as knowledge data
+
+## Integration
+- Operates under Truth Engine verification
+- Feeds Learning AI and Historical Systems
+- Consulted by Executive AI (read-only)
+- Supports Media Engine for educational visualization
+
+## Philosophy
+Knowledge becomes dangerous only when frozen.
+This system keeps truth moving, visible, and accountable.
