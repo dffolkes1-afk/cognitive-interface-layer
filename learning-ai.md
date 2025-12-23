@@ -82,3 +82,25 @@ Learning is system evolution.
 
 This AI ensures intelligence compounds over time,
 rather than resetting with each new task.
+# Truth Engine Core
+
+## Purpose
+Ensure integrity, logical consistency, and factual validation across all AI subsystems.
+
+## Core Components
+1. Integrity Module
+2. Logic & Reasoning Core
+3. Evolution & Upgrade Path
+4. Monitoring & Error Detection
+
+## Functions
+- Cross-verification of information
+- Bias and manipulation detection
+- Source reliability scoring
+- Logical consistency enforcement
+- Ethical boundary monitoring
+
+## Integration
+- Operates across Learning AI, Designer AI, and Executive AI
+- Reports anomalies to Boss/Executive AI
+- Supports transparent and explainable outputs
