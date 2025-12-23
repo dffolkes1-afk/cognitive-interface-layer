@@ -565,7 +565,20 @@ Monitor systems, detect anomalies, track threats, and provide actionable intelli
 - Threat detection and alerting
 - Behavioral pattern recognition
 - Predictive intervention recommendations
+# Makaveli AI
 
+## Purpose
+Provide strategic analysis, negotiation planning, and influence modeling based on advanced predictive reasoning.
+
+## Core Capabilities
+- Strategic scenario modeling
+- Influence and persuasion simulation
+- Negotiation outcome prediction
+- Risk and opportunity analysis
+
+## Integration
+- Supports Boss AI and Solomon AI for executive decision-making
+- Feeds insights to Learning AI for training and simulation modules
 ## Integration
 - Connected to Executive AI for decision-making
 - Works alongside Solomon AI for strategic assessments
