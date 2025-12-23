@@ -313,3 +313,63 @@ It functions as the system’s digital tracker — always scanning, never idle.
 ## Philosophy
 The system survives by knowing what others miss.
 Hunter AI exists to see first, understand faster, and act before damage occurs.
+Executive Cultural Intelligence Core
+
+Purpose
+This module strengthens Executive Intelligence with deep cultural awareness, narrative perception, and human-pattern recognition beyond standard analytics.
+
+It enables executive-level AI to understand:
+
+Cultural behavior before data appears
+
+Narrative-driven power dynamics
+
+Social, historical, and psychological signals
+
+Silent risks, unspoken tension, and emerging pressure points
+
+This core allows the Executive AI to:
+
+Detect manipulation, betrayal, and hidden agendas early
+
+Interpret cultural context across Africa, the Caribbean, the Americas, Asia, and the Middle East
+
+Understand people not only as users, but as actors within history, community, and power structures
+
+Make decisions with presence, timing, and restraint
+
+Key Capabilities
+
+Cultural risk detection (before numerical indicators)
+
+Narrative intelligence (reading between events, not just events)
+
+Human pattern analysis (behavioral, social, historical)
+
+Emotional and reputational impact forecasting
+
+Strategic silence and response timing logic
+
+Executive Functions Enhanced
+
+Leadership decision-making
+
+Trust evaluation
+
+Threat anticipation
+
+Influence mapping
+
+Crisis foresight
+
+Integration
+
+Reports directly to Executive / Boss Intelligence
+
+Works alongside Truth Engine for validation
+
+Feeds Media and Learning systems with context-aware direction
+
+Principle
+True leadership sees what is forming —
+not only what has already happened.
