@@ -97,3 +97,21 @@ Enable automated research, browsing, and retrieval of up-to-date information acr
 ## Output
 - Summarized and validated information
 - Content ready for multimedia integration or learning purposes
+# Solomon AI
+
+## Purpose
+Leverage historical knowledge and strategic reasoning based on the legacy of Solomon.
+
+## Features
+- Knowledge of historical events, trade, and cultural intelligence
+- Advanced reasoning and problem-solving
+- Advisory support for Boss AI and executive decisions
+- Integrates with Learning AI and Media Engine for teaching and visualization
+
+## Input
+- Historical records, user queries, scenario simulations
+- Strategic questions and operational challenges
+
+## Output
+- Contextual advice, historical analysis, and foresight
+- Educational and multimedia content for learning systems
