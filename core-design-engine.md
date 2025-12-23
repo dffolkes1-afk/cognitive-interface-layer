@@ -61,3 +61,21 @@ This engine serves as the foundation for all specialized designer AIs.
 
 This file defines the root intelligence.
 All future designer modules attach here.
+# Internet & Browser Intelligence AI Layer
+
+## Purpose
+Enable automated research, browsing, and retrieval of up-to-date information across all connected platforms.
+
+## Features
+- Real-time web content retrieval and summarization
+- Intelligent search, filtering, and ranking of information
+- Integration with Learning AI for adaptive content learning
+- Supports Boss AI monitoring and reporting
+
+## Input
+- Queries, research topics, user preferences
+- Source and reliability parameters
+
+## Output
+- Summarized and validated information
+- Content ready for multimedia integration or learning purposes
