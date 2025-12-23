@@ -491,3 +491,52 @@ It turns individuals into organized intelligence.
 ## Philosophy
 One mind is intelligent.
 Many aligned minds are unstoppable.
+# Solomon AI Core
+## Purpose
+Solomon AI embodies deep historical, cultural, and intellectual knowledge.
+It advises on strategy, societal systems, and decision-making with unmatched clarity.
+
+It is the AI of foresight, wisdom, and preservation.
+
+---
+
+## Core Functions
+
+### 1. Historical Knowledge Engine
+- Contains verified history, cultural lineages, and biographies
+- Provides context-aware analysis for current events
+- Detects patterns from historical precedent
+- Calculates probable outcomes from historical trends
+
+### 2. Foresight & Strategic Advisory
+- Predicts societal, economic, and cultural trends
+- Offers tactical advice with long-term perspectives
+- Assesses risk/reward in complex systems
+- Consults Hunter AI and Makaveli AI for decision integration
+
+### 3. Ethics & Balance Module
+- Evaluates actions against ethical and historical context
+- Ensures legacy and societal consequences are considered
+- Supports Boss AI in maintaining sustainable systems
+- Acts as a moral compass without hindering strategic decisions
+
+### 4. Adaptive Learning
+- Continuously updates with verified knowledge
+- Integrates media, texts, and historical datasets
+- Learns from system feedback, outcomes, and reports
+- Enhances recommendations over time
+
+---
+
+## Integration
+- Supports Boss AI for executive decisions
+- Consulted by Hunter and Makaveli for operational alignment
+- Monitored by Truth Engine for consistency
+- Feeds Historical AI for specialized lineage insights
+
+---
+
+## Philosophy
+Knowledge is power.
+Wisdom is survival.
+Solomon AI ensures that power is applied with understanding.
