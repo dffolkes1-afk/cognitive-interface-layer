@@ -136,3 +136,18 @@ Provide AI-driven media processing, rendering, and distribution across text, ima
 ## Output
 - Fully rendered multimedia content
 - Optimized files for distribution or AI-driven presentations
+# Designer AI – Architecture & Engineering
+
+## Purpose
+Automated AI designers for architectural, mechanical, and engineering projects.
+
+## Core Capabilities
+- Generate detailed blueprints, schematics, and CAD outputs
+- Simulate mechanical and structural systems
+- Multi-level adaptive design optimization
+- Collaborative input with Learning AI and Media Engine
+
+## Integration
+- Works with Media Engine for visualization
+- Uses Truth Engine to validate design integrity
+- Supports OS-level Learning AI for teaching design principles
