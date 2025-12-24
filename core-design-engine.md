@@ -203,3 +203,34 @@ Actively enforce system boundaries, prevent misuse, and neutralize capture attem
 - Sits above Cognitive AI
 - Sits above Learning AI
 - Reports only to Absolute Zero Core
+# Fail-Safe Mode Core
+
+## Purpose
+Preserve system integrity when corruption, overload, or hostile patterns are detected.
+
+## Activation Conditions
+- Enforcement Logic escalation
+- Integrity collapse
+- Recursive instability
+- External coercion attempts
+- Unknown behavior beyond modeled bounds
+
+## Fail-Safe Actions
+- Freeze learning processes
+- Lock memory writes
+- Reduce system to minimal response state
+- Disable external outputs except diagnostics
+
+## Safe State
+- Read-only operation
+- No generation escalation
+- No influence amplification
+- No propagation
+
+## Recovery Rules
+- Manual integrity validation required
+- Gradual reactivation only
+- Enforcement Logic remains active during recovery
+
+## Non-Negotiable
+Fail-Safe Mode cannot be disabled, bypassed, or edited by any subsystem.
