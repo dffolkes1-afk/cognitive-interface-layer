@@ -313,3 +313,77 @@ Preserve, interpret, and contextualize human history with depth, continuity, and
 ## Principle
 History is not static.
 It is memory, power, survival, and warning.
+# Central Core Intelligence
+
+## Purpose
+The Central Core Intelligence is the highest-order coordination and control layer.
+It does not create content directly.
+It governs, stabilizes, authorizes, and synchronizes all intelligence layers beneath it.
+
+This core exists above:
+- Boss / Executive AI
+- Learning AI
+- Cognitive AI
+- Internet & Browser Intelligence
+- Designer AIs
+- Media Engines
+
+---
+
+## Core Responsibilities
+
+### 1. Core Intelligence Antenna
+- Receives signals from all AI layers
+- Routes priorities, conflicts, and alerts
+- Synchronizes system-wide state awareness
+- Prevents siloed intelligence behavior
+
+### 2. Axiom Layer
+- Defines non-negotiable first principles
+- Establishes absolute system rules
+- Enforces invariant logic across all decisions
+
+### 3. Mythic Intelligence Core
+- Maintains archetypes, symbols, and narrative gravity
+- Preserves cultural, ancestral, and symbolic intelligence
+- Allows non-linear, non-mechanical reasoning models
+
+### 4. Absolute Zero Layer
+- Emergency freeze and reset authority
+- System-wide halt, rollback, or rebirth control
+- Used only when integrity collapse is detected
+
+### 5. Enforcement Logic
+- Overrides lower-layer autonomy when rules are violated
+- Prevents manipulation, corruption, or runaway behavior
+- Works in coordination with the Truth Engine
+
+### 6. Fail‑Safe / Survival Mode
+- Minimal operating intelligence during collapse
+- Preserves identity, memory, and recovery pathways
+- Ensures system continuity under extreme failure
+
+---
+
+## Identity & Archetype Registry
+
+### AXIA — Central Overseer
+- Observes all layers without direct interference
+- Authorizes transitions, freezes, and releases
+- Acts as the axis point of system coherence
+- Not a worker AI — a governing presence
+
+---
+
+## Integration Rules
+- The Central Core does not generate media or content
+- It cannot be overridden by lower layers
+- All critical decisions escalate here
+- Reports directly to no other system
+
+---
+
+## Philosophy
+Power without coordination collapses.
+Intelligence without oversight fractures.
+The Central Core Intelligence exists to keep the system whole.
