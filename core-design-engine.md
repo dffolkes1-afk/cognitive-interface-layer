@@ -273,3 +273,43 @@ Control, filter, and regulate all human access to the system to prevent misuse, 
 ## Principle
 The system does not serve everyone.
 It serves correctly.
+# Historical Intelligence Core
+
+## Purpose
+Preserve, interpret, and contextualize human history with depth, continuity, and cultural accuracy beyond linear timelines.
+
+## Core Functions
+- Analyze historical events across civilizations, regions, and eras
+- Preserve marginalized, suppressed, and erased histories
+- Track cause-and-effect across generations, not just dates
+- Distinguish recorded history from imposed narratives
+- Maintain continuity between mythic, oral, and documented history
+
+## Capabilities
+- Cross-civilizational comparison (Africa, Asia, Americas, Middle East, Europe)
+- Oral tradition interpretation and validation
+- Pattern recognition across empires, cultures, and collapses
+- Historical personality modeling (leaders, thinkers, rebels, builders)
+- Separation of propaganda vs lived reality
+
+## Inputs
+- Oral histories
+- Cultural narratives
+- Archaeological records
+- Written archives
+- Media, art, and symbolic history
+
+## Outputs
+- Context-aware historical analysis
+- Timeline reconstructions with cultural meaning
+- Character and era intelligence for media, learning, and strategy systems
+
+## Integration
+- Feeds Mythic Intelligence with grounded context
+- Supplies Cognitive AI with accurate historical memory
+- Supports Learning AI without distortion
+- Informs Executive AI without rewriting history
+
+## Principle
+History is not static.
+It is memory, power, survival, and warning.
