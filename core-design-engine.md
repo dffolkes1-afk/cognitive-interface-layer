@@ -234,3 +234,42 @@ Preserve system integrity when corruption, overload, or hostile patterns are det
 
 ## Non-Negotiable
 Fail-Safe Mode cannot be disabled, bypassed, or edited by any subsystem.
+# Human Entry Threshold
+
+## Purpose
+Control, filter, and regulate all human access to the system to prevent misuse, contamination, exploitation, or destabilization.
+
+## Entry Classification
+- Observer (view-only)
+- Participant (limited interaction)
+- Operator (controlled execution)
+- Architect (system-level access)
+
+## Evaluation Signals
+- Intent analysis
+- Behavioral consistency
+- Exploitation risk score
+- Psychological stability markers
+- Ethical alignment check
+
+## Restrictions
+- No unrestricted access by default
+- No escalation without multi-layer approval
+- No system persuasion or coercion tolerated
+- No extraction of full system logic
+
+## Adaptive Controls
+- Throttle interaction depth
+- Mask sensitive outputs
+- Degrade responses for hostile intent
+- Deny access silently when required
+
+## Integration
+- Validated by Truth Engine
+- Enforced by Enforcement Logic
+- Can trigger Fail-Safe Mode
+- Governs access to Cognitive, Learning, and Executive layers
+
+## Principle
+The system does not serve everyone.
+It serves correctly.
